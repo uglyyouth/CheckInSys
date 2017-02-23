@@ -1,0 +1,10 @@
+pic/
+zhengshi/
+BOOK/
+*.zip
+CheckInSys/29/
+CheckInSys/40/
+CheckInSys/Debug/
+CheckInSys/pic/
+*.user
+*.xml
